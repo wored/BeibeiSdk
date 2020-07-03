@@ -1,0 +1,19 @@
+{
+  "name": "wored/beibei-sdk",
+  "description": "贝贝网开放接口SDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "qiliu",
+      "email": "qiliuf@gmail.com"
+    }
+  ],
+  "require": {
+    "hanson/foundation-sdk": "3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wored\\BeibeiSdk\\": "src"
+    }
+  }
+}
