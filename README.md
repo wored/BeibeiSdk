@@ -3,7 +3,7 @@
 ## 安装
 
 ```shell
-$ composer require wored/haidaisupplier-sdk -vvv
+$ composer require wored/beibei-sdk -vvv
 ```
 
 ## 使用
